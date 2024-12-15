@@ -1,0 +1,21 @@
+html {
+background-color: white;
+
+}
+header {
+}
+nav {
+border-top: 5px solid aqua;
+border-bottom: 5px solid aqua;
+padding: 25px 100px 25px 95px;
+text-align: center;
+font-family: Arial Black;
+width: %;
+background-color: black;
+}
+nav a {
+text-decoration: none;
+color: azure;
+padding: 50px;
+
+}
